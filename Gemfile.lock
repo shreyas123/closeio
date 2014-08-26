@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    closeio (0.0.9)
+    closeio (0.0.13)
       crack (>= 0.1.8)
       httparty (>= 0.11.0)
 
