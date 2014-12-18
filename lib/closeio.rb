@@ -23,7 +23,7 @@ require 'forwardable'
 
 module Closeio
   autoload :Base,               'closeio/base'
-  autoload :Contact,            'closeio/Contact'
+  autoload :Contact,            'closeio/contact'
   autoload :EmailActivity,      'closeio/email_activity'
   autoload :EmailTemplate,      'closeio/email_template'
   autoload :Lead,               'closeio/lead'
